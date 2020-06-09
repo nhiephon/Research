@@ -117,7 +117,7 @@ Irfanview
 IrfanView 32-bit - 4.54
 
 ## [Affected Component]
-Plugin Formats.dll read file bxm. FORMATS!ReadMosaic+0x981: 10003171 8a91e8110d10 mov dl,byte ptr FORMATS!GetPlugInInfo+0x9b078  ds:002b:dcd9deb4=??
+Plugin Formats.dll read file xbm. FORMATS!ReadMosaic+0x981: 10003171 8a91e8110d10 mov dl,byte ptr FORMATS!GetPlugInInfo+0x9b078  ds:002b:dcd9deb4=??
 
 ## [Attack Type]
 Local
