@@ -1,4 +1,9 @@
 # Research
+```
+_nhiephon@twitter.com
+natuan1337@gmail.com
+```
+
 # CVE-2020-13905
 IrfanView 4.54 allows a user-mode write access violation starting at FORMATS!GetPlugInInfo+0x0000000000038ed4.
 
