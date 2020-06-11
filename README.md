@@ -138,3 +138,36 @@ https://www.irfanview.com/plugins.htm
 
 ## [Discoverer]
 nhiephon from NCSC of Vietnam
+
+# ???
+IrfanView 4.54 - 32bit with Formats plugin allows attackers to cause a denial of service or possibly have unspecified other impact via a crafted .cr2 file, related to "Data from Faulting Address controls Branch Selection starting at FORMATS!GetPlugInInfo+0x00000000000047f6".
+
+## [Additional Information]
+Vendor fixed the error in the plugin. Please read "https://www.irfanview.com/plugins.htm"
+
+## [VulnerabilityType Other]
+Denial Of Service, Overflow.
+
+## [Vendor of Product]
+Irfanview
+
+## [Affected Product Code Base]
+IrfanView 32-bit - 4.54
+
+## [Affected Component]
+FORMATS!GetPlugInInfo+0x47f6: 10039416 8b0a mov ecx, dword ptr [edx]  ds:002b:48663000=????????
+
+## [Attack Type]
+Local
+
+## [CVE Impact Other]
+
+## [Attack Vectors]
+To exploit vulnerability, someone must open a crafted CR2 file.
+
+## [Reference]
+https://github.com/nhiephon/Research/blob/master/README.md \
+https://www.irfanview.com/plugins.htm
+
+## [Discoverer]
+nhiephon from NCSC of Vietnam
