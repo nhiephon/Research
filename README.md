@@ -1,7 +1,6 @@
 # Research
 ```
 _nhiephon@twitter.com
-natuan1337@gmail.com
 ```
 
 # CVE-2020-13905
