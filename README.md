@@ -5,6 +5,20 @@
 
 [Facebook Whitehat](https://www.facebook.com/whitehat/profile/nhiephon.nat)
 
+### 2024
+<details><summary>CVE-2024-27443</summary>
+<p>
+
+#### [Reference]
+https://github.com/nhiephon/Research/blob/master/README.md \
+https://www.irfanview.com/plugins.htm
+#### [Discoverer]
+nhiephon, chung96vn, SPT from NCSC Vietnam
+
+</p>
+</details>
+
+
 ### 2022
 <details><summary>CVE-2022-0273</summary>
 <p>
