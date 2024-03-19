@@ -10,8 +10,8 @@
 <p>
 
 #### [Reference]
-https://github.com/nhiephon/Research/blob/master/README.md \
-https://www.irfanview.com/plugins.htm
+https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories \
+https://nvd.nist.gov/vuln/detail/CVE-2024-27443
 #### [Discoverer]
 nhiephon, chung96vn, SPT from NCSC Vietnam
 
